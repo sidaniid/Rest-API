@@ -1,6 +1,7 @@
 # YUU - Free Rest Api Collection
 
 ## Features
+* Youtube MP3 Downloader
 * Youtube MP4 Downloader
 * TikTok Post Downloader
 * Post, Reel, Tv, Downloader
